@@ -1,8 +1,6 @@
-package javahomework;
-
 import static java.lang.Integer.MAX_VALUE;
 
-public class javaExercisesOne {
+public class JavaExercisesOne {
     public static void main(String[] args) {
 
         /*
